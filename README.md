@@ -24,3 +24,10 @@ This is my final project from UCSB's Introduction to Python course.
 ---
 
 📌 **Why this matters:** I use this as a starting point to pursue data science, AI, and software internships by showing real code I've written and tested.
+
+## How to Run
+
+```bash
+git clone https://github.com/analauracisneros/beginner-python-final-project.git
+cd beginner-python-final-project
+python3 main.py
